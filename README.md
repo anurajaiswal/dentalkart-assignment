@@ -10,6 +10,10 @@ In the project directory, you can run:
  and then 
 ### `npm start`
 
+for email and password use 
+### email = abc@gmail.com
+### password = 12345
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
